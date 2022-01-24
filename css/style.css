@@ -1,0 +1,27 @@
+body
+{
+  background-color: lightcyan;
+}
+hr
+{
+  border-color: mistyrose;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 8px;
+  height: 0;
+  width: 10%;
+}
+h1
+{
+  font-family:"algerian";
+  color: #66BFBF;
+}
+h2
+{
+  font-family:"Lucida Calligraphy";
+  color: #66BFBF;
+}
+h3
+{
+  color: #66BFBF;
+}
